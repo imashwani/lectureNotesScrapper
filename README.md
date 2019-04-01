@@ -4,7 +4,7 @@ Allows scrapping images from the enginnering,bba,bca etc notes website  http://l
 
 #### _I genuinely feel that you should pay them/ use their platform for viewing/downloading notes; and add to their revenue._
 
-But still if you need some of it offline, you can have the images; just don't go crazy over it
+But still, if you need some of it offline, you can have the images; just don't go crazy over it
 
 # How to use the script?
 
