@@ -1,10 +1,10 @@
 # lectureNotesScrapper
 
-allows scrapping images from the website lecturenotes.in
+Allows scrapping images from the enginnering,bba,bca etc notes website  http://lecturenotes.in
 
-I genvenly feel that you should pay them/ use their platform for notes; and add to the revenue.
+I genuinely feel that you should pay them/ use their platform for viewing/downloading notes; and add to their revenue.
 
-But still if you need some of it offline, you can have the images.
+But still if you need some of it offline, you can have the images; just don't go crazy over it
 
 # How to use the script
 
@@ -20,3 +20,5 @@ for example: https://lecturenotes.in/notes/82-notes-for-operating-systems-os-by-
 the above url would have the notes id as 82
 
 it will create the folder with this name (82); where you run the script
+
+If this was helpful/ you liked it, do star this repo!!
