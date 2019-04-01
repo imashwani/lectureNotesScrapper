@@ -11,7 +11,7 @@ But still if you need some of it offline, you can have the images.
 must have python installed on system
 and install following libs if not present using 
 
-  pip install requests
+  `pip install requests`
 
 Just enter the id of the note found in url in the 5th line of script
 
