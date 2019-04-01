@@ -13,7 +13,7 @@ and install following libs if not present using
 
   `pip install requests`
 
-Just enter the id of the note found in url in the 5th line of script
+Just enter the id of the note found in url; after you run the script
 
 for example: https://lecturenotes.in/notes/82-notes-for-operating-systems-os-by-verified-writer
 
