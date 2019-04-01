@@ -6,7 +6,7 @@ I genuinely feel that you should pay them/ use their platform for viewing/downlo
 
 But still if you need some of it offline, you can have the images; just don't go crazy over it
 
-# How to use the script
+# How to use the script?
 
 must have python installed on system
 and install following libs if not present by entering the following command in cmd/ terminal:
