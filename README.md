@@ -17,9 +17,9 @@ Just enter the id of the note found in url; after you run the script
 
 for example: 
 > https://lecturenotes.in/notes/82-notes-for-operating-systems-os-by-verified-writer
-
+> 
 > In the above url you have the notes id as 82
 
 it will create the folder with this name (82); where you run the script
 
-### If this was helpful/ you liked it, do star this repo!! ###
+### If this was helpful/ you liked it, do star this repo!!  😅  ###
