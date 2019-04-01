@@ -20,6 +20,6 @@ for example:
 > 
 > In the above url you have the notes id as 82
 
-it will create the folder with this name (82); where you run the script
+Script will create the folder named (82) with all the images; where you run the script
 
 ### If this was helpful/ you liked it, do star this repo!!  😅  ###
