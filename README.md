@@ -1,6 +1,8 @@
 # lectureNotesScrapper
 
-Allows scrapping images from the enginnering,bba,bca etc notes website  http://lecturenotes.in
+Allows scrapping images from the website  http://lecturenotes.in
+
+This website has enginnering, BCA, MCA etc notes 
 
 #### _I genuinely feel that you should pay them/ use their platform for viewing/downloading notes; and add to their revenue._
 
@@ -8,8 +10,7 @@ But still, if you need some of it offline, you can have the images; just don't g
 
 # How to use the script?
 
-must have python installed on system
-and install following libs if not present by entering the following command in cmd/ terminal:
+must have python installed on system and then install following library if not present by entering the following command in cmd/ terminal:
 
   `pip install requests`
 
